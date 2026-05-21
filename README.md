@@ -86,4 +86,4 @@ The maintainer is the sole author at v0.9. Contributor governance opens at v1.0.
 
 ---
 
-Built and maintained by Timothy Shin. California attorney. Korea digital-asset policy advisor.
+Built and maintained by Timothy Shin · AI Operator.
