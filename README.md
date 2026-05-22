@@ -13,7 +13,7 @@ Personal AI Architecture is the discipline of owning your AI in files you contro
 - **thedimode/personal-ai-architecture** — the specification (this repo)
 - [thedimode/operator-stack](https://github.com/thedimode/operator-stack) — reference implementation (MIT)
 - [thedimode/thedimode](https://github.com/thedimode/thedimode) — the maintainer's personal proof artifact (CC BY-NC 4.0)
-- [thedimode.com/workbook](https://thedimode.com/workbook) — the workbook that teaches the discipline
+- [thedimode.com/handbook](https://thedimode.com/handbook) — the handbook that teaches the discipline
 
 ## The three flags
 
@@ -66,7 +66,7 @@ This specification builds on, and is in conversation with, several strands of wo
 - **Mario Brcic** — "AI Memory Sovereignty Strategy" (2025), framing memory ownership as a sovereignty question.
 - **Khoj, Letta, Mem0, Personal.ai** — open and commercial memory layers for AI agents. This specification is complementary: format-only and worker-facing, where they are framework-or-product.
 
-Personal AI Architecture differs from these by being (1) worker-facing rather than developer-or-enterprise-facing, (2) format-only rather than framework-or-product, (3) bilingual English and Korean as a first-class concern, (4) paired with a workbook that teaches the discipline as guided practice (because the discipline cannot be acquired by reading a spec alone).
+Personal AI Architecture differs from these by being (1) worker-facing rather than developer-or-enterprise-facing, (2) format-only rather than framework-or-product, (3) bilingual English and Korean as a first-class concern, (4) paired with an [Operator's Handbook](https://thedimode.com/handbook) that teaches the discipline as guided practice (because the discipline cannot be acquired by reading a spec alone).
 
 ## How to cite
 
