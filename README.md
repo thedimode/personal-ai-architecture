@@ -1,4 +1,4 @@
-# Personal AI Architecture
+# The Dimode Method
 
 **Status:** v0.9 (Draft) · See [ROADMAP.md](./ROADMAP.md)
 **Maintainer:** Timothy Shin · [thedimode.com](https://thedimode.com)
@@ -6,12 +6,12 @@
 
 Your AI does not remember you. It remembers what its vendor decided to let it remember, until the vendor changes its mind.
 
-Personal AI Architecture is the discipline of owning your AI in files you control, in formats you can carry between models. This repository is its specification.
+The Dimode Method is the discipline of owning your AI in files you control, in formats you can carry between models. This repository is its specification.
 
-## The Personal AI Architecture project
+## The Dimode Method · project map
 
-- **thedimode/personal-ai-architecture** — the specification (this repo)
-- [thedimode/operator-stack](https://github.com/thedimode/operator-stack) — reference implementation (MIT)
+- **thedimode/the-dimode-method** — the specification (this repo)
+- [thedimode/starter-kit](https://github.com/thedimode/starter-kit) — the installable reference implementation (MIT): stand up your own local-first AI stack in one command
 - [thedimode/thedimode](https://github.com/thedimode/thedimode) — the maintainer's personal proof artifact (CC BY-NC 4.0)
 - [thedimode.com/handbook](https://thedimode.com/handbook) — the handbook that teaches the discipline
 
@@ -48,10 +48,10 @@ Compliance is about file format, not infrastructure. This is a portable-format s
 
 ## Why three licenses
 
-The Personal AI Architecture project ships three repositories under three different licenses, each chosen for what the artifact is rather than uniform convenience.
+The Dimode Method ships its repositories under different licenses, each chosen for what the artifact is rather than uniform convenience.
 
 - **The specification** (this repo) is CC BY 4.0. A standard is most useful when it can be cited, reproduced, and built upon for any purpose, including commercial. Attribution preserves authorship and tells readers where the source of truth lives.
-- **The reference implementation** ([operator-stack](https://github.com/thedimode/operator-stack)) is MIT. Code intended for forking should impose the lightest possible obligation on the forker.
+- **The reference implementation** ([starter-kit](https://github.com/thedimode/starter-kit)) is MIT. Code intended for forking should impose the lightest possible obligation on the forker.
 - **The personal proof artifact** ([thedimode/thedimode](https://github.com/thedimode/thedimode)) is CC BY-NC 4.0. The maintainer's own running stack is reference material, not a template to be commercially repackaged.
 
 ## Acknowledgments and prior art
@@ -66,16 +66,16 @@ This specification builds on, and is in conversation with, several strands of wo
 - **Mario Brcic** — "AI Memory Sovereignty Strategy" (2025), framing memory ownership as a sovereignty question.
 - **Khoj, Letta, Mem0, Personal.ai** — open and commercial memory layers for AI agents. This specification is complementary: format-only and worker-facing, where they are framework-or-product.
 
-Personal AI Architecture differs from these by being (1) worker-facing rather than developer-or-enterprise-facing, (2) format-only rather than framework-or-product, (3) bilingual English and Korean as a first-class concern, (4) paired with an [Operator's Handbook](https://thedimode.com/handbook) that teaches the discipline as guided practice (because the discipline cannot be acquired by reading a spec alone).
+The Dimode Method differs from these by being (1) worker-facing rather than developer-or-enterprise-facing, (2) format-only rather than framework-or-product, (3) bilingual English and Korean as a first-class concern, (4) paired with an [Operator's Handbook](https://thedimode.com/handbook) that teaches the discipline as guided practice (because the discipline cannot be acquired by reading a spec alone).
 
 ## How to cite
 
 A `CITATION.cff` file will land at v1.0. For draft citations:
 
 ```
-Shin, Timothy. Personal AI Architecture: A Specification.
+Shin, Timothy. The Dimode Method: A Specification.
 v0.9 (Draft), 2026.
-https://github.com/thedimode/personal-ai-architecture
+https://github.com/thedimode/the-dimode-method
 ```
 
 ## Contributing
