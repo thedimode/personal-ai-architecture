@@ -84,7 +84,7 @@ Vendor-managed memory (ChatGPT Memory, Claude Projects, Gemini Saved Info) is th
 - Should `persona_profile.md` mandate a confidence map for observed-vs-asserted patterns? (The reference implementation uses one; whether to standardize is open.)
 - Should there be a third file for `voice_corpus/` (a directory of raw voice samples)? (Open: too implementation-coupled to standardize, or load-bearing enough to standardize?)
 
-Comments welcome via [issues](https://github.com/thedimode/personal-ai-architecture/issues).
+Comments welcome via [issues](https://github.com/thedimode/the-dimode-method/issues).
 
 ## Status
 

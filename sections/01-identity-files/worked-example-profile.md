@@ -12,7 +12,7 @@ See also: the unsanitized live version at [thedimode/thedimode/identity/profile.
 
 ```markdown
 ---
-spec: https://github.com/thedimode/personal-ai-architecture/tree/main/sections/01-identity-files
+spec: https://github.com/thedimode/the-dimode-method/tree/main/sections/01-identity-files
 schema: profile.v1
 last_updated: 2026-05-21
 canonical: true

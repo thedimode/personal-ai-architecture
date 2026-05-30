@@ -7,7 +7,7 @@ The specification is published under [CC BY 4.0](./LICENSE). By contributing you
 ## Before you contribute
 
 - Read the [README](./README.md) and the current [ROADMAP](./ROADMAP.md).
-- Check open and closed [issues](https://github.com/thedimode/personal-ai-architecture/issues) so you do not duplicate existing discussion.
+- Check open and closed [issues](https://github.com/thedimode/the-dimode-method/issues) so you do not duplicate existing discussion.
 - Review the [Code of Conduct](./CODE_OF_CONDUCT.md). It applies to all interaction in this repository.
 
 ## Three kinds of contribution
